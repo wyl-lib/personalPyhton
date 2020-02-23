@@ -1,0 +1,39 @@
+#python第三次作业_小球摆动
+
+'''
+Python：质量为50g的小球做单摆运动，
+绳长200像素，从离地100米处，正好此时，
+绳与竖直方向夹角60度，小球在运动过程中，
+如果摩擦力不变为2N，画出小球从开始到停止
+的摆动轨迹。如果，小球的摩擦力产生的能量
+全部加热小球，在小球运动过程中，用不同的
+颜色表示小球的温度。
+'''
+
+from turtle import *
+setup(0.45,0.55)
+pensize(10)
+colormode(255)
+
+def StaticThing:
+    #TopStatic
+    penup()
+    
+    pendown()
+    for i in range(0,2,1):
+        fd(10)
+        right(90)
+        fd(400)
+        right(90)
+    
+def Cirecle:
+
+def Line:
+
+def Color:
+
+def main:
+    StaticThing()
+
+if __name__ == '__main__':
+	main()

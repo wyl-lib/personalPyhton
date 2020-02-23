@@ -1,0 +1,1894 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns="http://www.w3.org/TR/REC-html40">
+ <head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+  <meta name="ProgId" content="Excel.Sheet"/>
+  <meta name="Generator" content="WPS Office ET"/>
+  <!--[if gte mso 9]>
+   <xml>
+    <o:DocumentProperties>
+     <o:Created>2019-11-29T08:49:24</o:Created>
+     <o:LastAuthor>享受时间</o:LastAuthor>
+     <o:LastSaved>2019-11-29T08:58:09</o:LastSaved>
+    </o:DocumentProperties>
+    <o:CustomDocumentProperties>
+     <o:KSOProductBuildVer dt:dt="string">2052-11.1.0.9208</o:KSOProductBuildVer>
+    </o:CustomDocumentProperties>
+   </xml>
+  <![endif]-->
+  <style>
+<!-- @page
+	{margin:1.00in 0.75in 1.00in 0.75in;
+	mso-header-margin:0.50in;
+	mso-footer-margin:0.50in;}
+tr
+	{mso-height-source:auto;
+	mso-ruby-visibility:none;}
+col
+	{mso-width-source:auto;
+	mso-ruby-visibility:none;}
+br
+	{mso-data-placement:same-cell;}
+.font0
+	{color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font1
+	{color:#000000;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font2
+	{color:#000000;
+	font-size:10.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Arial Unicode MS";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font3
+	{color:#000000;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Arial Unicode MS";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font4
+	{color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font5
+	{color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font6
+	{color:#44546A;
+	font-size:13.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font7
+	{color:#FF0000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font8
+	{color:#7F7F7F;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:italic;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font9
+	{color:#44546A;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font10
+	{color:#800080;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:underline;
+	text-underline-style:single;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font11
+	{color:#9C0006;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font12
+	{color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font13
+	{color:#3F3F3F;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font14
+	{color:#44546A;
+	font-size:15.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font15
+	{color:#000000;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font16
+	{color:#44546A;
+	font-size:18.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font17
+	{color:#0000FF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:underline;
+	text-underline-style:single;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font18
+	{color:#9C6500;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font19
+	{color:#3F3F76;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font20
+	{color:#FA7D00;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font21
+	{color:#FA7D00;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font22
+	{color:#006100;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.style0
+	{mso-number-format:"General";
+	text-align:general;
+	vertical-align:middle;
+	white-space:nowrap;
+	mso-rotate:0;
+	mso-pattern:auto;
+	mso-background-source:auto;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	border:none;
+	mso-protection:locked visible;
+	mso-style-name:"常规";
+	mso-style-id:0;}
+.style16
+	{mso-number-format:"_ \0022\00A5\0022* \#\,\#\#0_ \;_ \0022\00A5\0022* \\-\#\,\#\#0_ \;_ \0022\00A5\0022* \0022-\0022_ \;_ \@_ ";
+	mso-style-name:"货币[0]";
+	mso-style-id:7;}
+.style17
+	{mso-pattern:auto none;
+	background:#EDEDED;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"20% - 强调文字颜色 3";}
+.style18
+	{mso-pattern:auto none;
+	background:#FFCC99;
+	color:#3F3F76;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	border:.5pt solid #7F7F7F;
+	mso-style-name:"输入";}
+.style19
+	{mso-number-format:"_ \0022\00A5\0022* \#\,\#\#0\.00_ \;_ \0022\00A5\0022* \\-\#\,\#\#0\.00_ \;_ \0022\00A5\0022* \0022-\0022??_ \;_ \@_ ";
+	mso-style-name:"货币";
+	mso-style-id:4;}
+.style20
+	{mso-number-format:"_ * \#\,\#\#0_ \;_ * \\-\#\,\#\#0_ \;_ * \0022-\0022_ \;_ \@_ ";
+	mso-style-name:"千位分隔[0]";
+	mso-style-id:6;}
+.style21
+	{mso-pattern:auto none;
+	background:#DBDBDB;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"40% - 强调文字颜色 3";}
+.style22
+	{mso-pattern:auto none;
+	background:#FFC7CE;
+	color:#9C0006;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"差";}
+.style23
+	{mso-number-format:"_ * \#\,\#\#0\.00_ \;_ * \\-\#\,\#\#0\.00_ \;_ * \0022-\0022??_ \;_ \@_ ";
+	mso-style-name:"千位分隔";
+	mso-style-id:3;}
+.style24
+	{mso-pattern:auto none;
+	background:#C9C9C9;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"60% - 强调文字颜色 3";}
+.style25
+	{color:#0000FF;
+	font-size:11.0pt;
+	text-decoration:underline;
+	text-underline-style:single;
+	font-family:宋体;
+	mso-style-name:"超链接";
+	mso-style-id:8;}
+.style26
+	{mso-number-format:"0%";
+	mso-style-name:"百分比";
+	mso-style-id:5;}
+.style27
+	{color:#800080;
+	font-size:11.0pt;
+	text-decoration:underline;
+	text-underline-style:single;
+	font-family:宋体;
+	mso-style-name:"已访问的超链接";
+	mso-style-id:9;}
+.style28
+	{mso-pattern:auto none;
+	background:#FFFFCC;
+	border:.5pt solid #B2B2B2;
+	mso-style-name:"注释";}
+.style29
+	{mso-pattern:auto none;
+	background:#F4B084;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"60% - 强调文字颜色 2";}
+.style30
+	{color:#44546A;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	mso-style-name:"标题 4";}
+.style31
+	{color:#FF0000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"警告文本";}
+.style32
+	{color:#44546A;
+	font-size:18.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	mso-style-name:"标题";}
+.style33
+	{color:#7F7F7F;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:italic;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"解释性文本";}
+.style34
+	{color:#44546A;
+	font-size:15.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	border-bottom:1.0pt solid #5B9BD5;
+	mso-style-name:"标题 1";}
+.style35
+	{color:#44546A;
+	font-size:13.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	border-bottom:1.0pt solid #5B9BD5;
+	mso-style-name:"标题 2";}
+.style36
+	{mso-pattern:auto none;
+	background:#9BC2E6;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"60% - 强调文字颜色 1";}
+.style37
+	{color:#44546A;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	border-bottom:1.0pt solid #ACCCEA;
+	mso-style-name:"标题 3";}
+.style38
+	{mso-pattern:auto none;
+	background:#FFD966;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"60% - 强调文字颜色 4";}
+.style39
+	{mso-pattern:auto none;
+	background:#F2F2F2;
+	color:#3F3F3F;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	border:.5pt solid #3F3F3F;
+	mso-style-name:"输出";}
+.style40
+	{mso-pattern:auto none;
+	background:#F2F2F2;
+	color:#FA7D00;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	border:.5pt solid #7F7F7F;
+	mso-style-name:"计算";}
+.style41
+	{mso-pattern:auto none;
+	background:#A5A5A5;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	border:2.0pt double #3F3F3F;
+	mso-style-name:"检查单元格";}
+.style42
+	{mso-pattern:auto none;
+	background:#E2EFDA;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"20% - 强调文字颜色 6";}
+.style43
+	{mso-pattern:auto none;
+	background:#ED7D31;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"强调文字颜色 2";}
+.style44
+	{color:#FA7D00;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	border-bottom:2.0pt double #FF8001;
+	mso-style-name:"链接单元格";}
+.style45
+	{color:#000000;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	border-top:.5pt solid #5B9BD5;
+	border-bottom:2.0pt double #5B9BD5;
+	mso-style-name:"汇总";}
+.style46
+	{mso-pattern:auto none;
+	background:#C6EFCE;
+	color:#006100;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"好";}
+.style47
+	{mso-pattern:auto none;
+	background:#FFEB9C;
+	color:#9C6500;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"适中";}
+.style48
+	{mso-pattern:auto none;
+	background:#D9E1F2;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"20% - 强调文字颜色 5";}
+.style49
+	{mso-pattern:auto none;
+	background:#5B9BD5;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"强调文字颜色 1";}
+.style50
+	{mso-pattern:auto none;
+	background:#DDEBF7;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"20% - 强调文字颜色 1";}
+.style51
+	{mso-pattern:auto none;
+	background:#BDD7EE;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"40% - 强调文字颜色 1";}
+.style52
+	{mso-pattern:auto none;
+	background:#FCE4D6;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"20% - 强调文字颜色 2";}
+.style53
+	{mso-pattern:auto none;
+	background:#F8CBAD;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"40% - 强调文字颜色 2";}
+.style54
+	{mso-pattern:auto none;
+	background:#A5A5A5;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"强调文字颜色 3";}
+.style55
+	{mso-pattern:auto none;
+	background:#FFC000;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"强调文字颜色 4";}
+.style56
+	{mso-pattern:auto none;
+	background:#FFF2CC;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"20% - 强调文字颜色 4";}
+.style57
+	{mso-pattern:auto none;
+	background:#FFE699;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"40% - 强调文字颜色 4";}
+.style58
+	{mso-pattern:auto none;
+	background:#4472C4;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"强调文字颜色 5";}
+.style59
+	{mso-pattern:auto none;
+	background:#B4C6E7;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"40% - 强调文字颜色 5";}
+.style60
+	{mso-pattern:auto none;
+	background:#8EA9DB;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"60% - 强调文字颜色 5";}
+.style61
+	{mso-pattern:auto none;
+	background:#70AD47;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"强调文字颜色 6";}
+.style62
+	{mso-pattern:auto none;
+	background:#C6E0B4;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"40% - 强调文字颜色 6";}
+.style63
+	{mso-pattern:auto none;
+	background:#A9D08E;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"60% - 强调文字颜色 6";}
+td
+	{mso-style-parent:style0;
+	padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	mso-number-format:"General";
+	text-align:general;
+	vertical-align:middle;
+	white-space:nowrap;
+	mso-rotate:0;
+	mso-pattern:auto;
+	mso-background-source:auto;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	border:none;
+	mso-protection:locked visible;}
+.xl65
+	{mso-style-parent:style0;
+	font-weight:700;
+	mso-font-charset:134;}
+.xl66
+	{mso-style-parent:style0;
+	mso-number-format:"\@";
+	white-space:normal;
+	font-size:10.0pt;
+	font-weight:700;
+	font-family:Arial Unicode MS;
+	mso-font-charset:134;
+	border:.5pt solid windowtext;}
+.xl67
+	{mso-style-parent:style0;
+	mso-number-format:"\@";
+	white-space:normal;
+	font-size:10.0pt;
+	font-family:Arial Unicode MS;
+	mso-font-charset:134;
+	border:.5pt solid windowtext;}
+.xl68
+	{mso-style-parent:style0;
+	mso-number-format:"\@";
+	white-space:normal;
+	mso-font-charset:134;
+	border:.5pt solid windowtext;}
+.xl69
+	{mso-style-parent:style0;
+	mso-number-format:"\#\,\#\#\#\.00";
+	white-space:normal;
+	font-size:10.0pt;
+	font-family:Arial Unicode MS;
+	mso-font-charset:134;
+	border:.5pt solid windowtext;}
+ -->  </style>
+  <!--[if gte mso 9]>
+   <xml>
+    <x:ExcelWorkbook>
+     <x:ExcelWorksheets>
+      <x:ExcelWorksheet>
+       <x:Name>二教104</x:Name>
+       <x:WorksheetOptions>
+        <x:DefaultRowHeight>288</x:DefaultRowHeight>
+        <x:StandardWidth>2275</x:StandardWidth>
+        <x:Selected/>
+        <x:Panes>
+         <x:Pane>
+          <x:Number>3</x:Number>
+          <x:ActiveCol>0</x:ActiveCol>
+          <x:ActiveRow>24</x:ActiveRow>
+          <x:RangeSelection>25:39</x:RangeSelection>
+         </x:Pane>
+        </x:Panes>
+        <x:DoNotDisplayGridlines/>
+        <x:ProtectContents>False</x:ProtectContents>
+        <x:ProtectObjects>False</x:ProtectObjects>
+        <x:ProtectScenarios>False</x:ProtectScenarios>
+        <x:Print>
+         <x:PaperSizeIndex>9</x:PaperSizeIndex>
+        </x:Print>
+       </x:WorksheetOptions>
+      </x:ExcelWorksheet>
+     </x:ExcelWorksheets>
+     <x:ProtectStructure>False</x:ProtectStructure>
+     <x:ProtectWindows>False</x:ProtectWindows>
+     <x:WindowHeight>7860</x:WindowHeight>
+     <x:WindowWidth>18528</x:WindowWidth>
+    </x:ExcelWorkbook>
+   </xml>
+  <![endif]-->
+ </head>
+ <body link="blue" vlink="purple">
+  <table width="4214.00" border="0" cellpadding="0" cellspacing="0" style='width:2528.40pt;border-collapse:collapse;table-layout:fixed;'>
+   <col width="137.50" style='mso-width-source:userset;mso-width-alt:4022;'/>
+   <col width="106" style='mso-width-source:userset;mso-width-alt:3101;'/>
+   <col width="232.50" style='mso-width-source:userset;mso-width-alt:6802;'/>
+   <col width="86.75" style='mso-width-source:userset;mso-width-alt:2537;'/>
+   <col width="175.25" style='mso-width-source:userset;mso-width-alt:5127;'/>
+   <col width="68.75" style='mso-width-source:userset;mso-width-alt:2011;'/>
+   <col width="97" span="2" style='mso-width-source:userset;mso-width-alt:2837;'/>
+   <col width="88.75" style='mso-width-source:userset;mso-width-alt:2596;'/>
+   <col width="86.75" style='mso-width-source:userset;mso-width-alt:2537;'/>
+   <col width="108.00" style='mso-width-source:userset;mso-width-alt:3159;'/>
+   <col width="86.75" span="2" style='mso-width-source:userset;mso-width-alt:2537;'/>
+   <col width="129.25" style='mso-width-source:userset;mso-width-alt:3781;'/>
+   <col width="86.75" style='mso-width-source:userset;mso-width-alt:2537;'/>
+   <col width="50.75" style='mso-width-source:userset;mso-width-alt:1484;'/>
+   <col width="86.75" span="2" style='mso-width-source:userset;mso-width-alt:2537;'/>
+   <col width="157" style='mso-width-source:userset;mso-width-alt:4593;'/>
+   <col width="229.25" style='mso-width-source:userset;mso-width-alt:6706;'/>
+   <col width="86.75" span="2" style='mso-width-source:userset;mso-width-alt:2537;'/>
+   <col width="106" span="3" style='mso-width-source:userset;mso-width-alt:3101;'/>
+   <col width="86.75" style='mso-width-source:userset;mso-width-alt:2537;'/>
+   <col width="106" style='mso-width-source:userset;mso-width-alt:3101;'/>
+   <col width="95.75" style='mso-width-source:userset;mso-width-alt:2801;'/>
+   <col width="86.75" style='mso-width-source:userset;mso-width-alt:2537;'/>
+   <col width="50.75" style='mso-width-source:userset;mso-width-alt:1484;'/>
+   <col width="86.75" style='mso-width-source:userset;mso-width-alt:2537;'/>
+   <col width="141.50" span="2" style='mso-width-source:userset;mso-width-alt:4139;'/>
+   <col width="125.25" span="2" style='mso-width-source:userset;mso-width-alt:3664;'/>
+   <col width="141.50" style='mso-width-source:userset;mso-width-alt:4139;'/>
+   <col width="125.25" span="2" style='mso-width-source:userset;mso-width-alt:3664;'/>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl66" height="24" width="137.50" style='height:14.40pt;width:82.50pt;' x:str>审核状态</td>
+    <td class="xl66" width="106" style='width:63.60pt;' x:str>资产编号</td>
+    <td class="xl66" width="232.50" style='width:139.50pt;' x:str>资产名称</td>
+    <td class="xl66" width="86.75" style='width:52.05pt;' x:str>分类号</td>
+    <td class="xl66" width="175.25" style='width:105.15pt;' x:str>分类名称</td>
+    <td class="xl66" width="68.75" style='width:41.25pt;' x:str>项目号</td>
+    <td class="xl66" width="97" style='width:58.20pt;' x:str>单价</td>
+    <td class="xl66" width="97" style='width:58.20pt;' x:str>总造价</td>
+    <td class="xl66" width="88.75" style='width:53.25pt;' x:str>套(件数)</td>
+    <td class="xl66" width="86.75" style='width:52.05pt;' x:str>计量单位</td>
+    <td class="xl66" width="108.00" style='width:64.80pt;' x:str>使(领)用人</td>
+    <td class="xl66" width="86.75" style='width:52.05pt;' x:str>使用方向</td>
+    <td class="xl66" width="86.75" style='width:52.05pt;' x:str>使用单位</td>
+    <td class="xl66" width="129.25" style='width:77.55pt;' x:str>存放地点</td>
+    <td class="xl66" width="86.75" style='width:52.05pt;' x:str>单位性质</td>
+    <td class="xl66" width="50.75" style='width:30.45pt;' x:str>现状</td>
+    <td class="xl66" width="86.75" style='width:52.05pt;' x:str>生产厂家</td>
+    <td class="xl66" width="86.75" style='width:52.05pt;' x:str>出厂编号</td>
+    <td class="xl66" width="157" style='width:94.20pt;' x:str>型号</td>
+    <td class="xl66" width="229.25" style='width:137.55pt;' x:str>规格</td>
+    <td class="xl66" width="86.75" style='width:52.05pt;' x:str>经费来源</td>
+    <td class="xl66" width="86.75" style='width:52.05pt;' x:str>资产来源</td>
+    <td class="xl66" width="106" style='width:63.60pt;' x:str>购置日期</td>
+    <td class="xl66" width="106" style='width:63.60pt;' x:str>入帐日期</td>
+    <td class="xl66" width="106" style='width:63.60pt;' x:str>调转入日期</td>
+    <td class="xl66" width="86.75" style='width:52.05pt;' x:str>档案编号</td>
+    <td class="xl66" width="106" style='width:63.60pt;' x:str>凭证号</td>
+    <td class="xl66" width="95.75" style='width:57.45pt;' x:str>验收单号</td>
+    <td class="xl66" width="86.75" style='width:52.05pt;' x:str>记帐类型</td>
+    <td class="xl66" width="50.75" style='width:30.45pt;' x:str>学科</td>
+    <td class="xl66" width="86.75" style='width:52.05pt;' x:str>学科类别</td>
+    <td class="xl66" width="141.50" style='width:84.90pt;' x:str>归口审核人</td>
+    <td class="xl66" width="141.50" style='width:84.90pt;' x:str>归口审核单位</td>
+    <td class="xl66" width="125.25" style='width:75.15pt;' x:str>归口审核日期</td>
+    <td class="xl66" width="125.25" style='width:75.15pt;' x:str>归口审核意见</td>
+    <td class="xl66" width="141.50" style='width:84.90pt;' x:str>财务审核人</td>
+    <td class="xl66" width="125.25" style='width:75.15pt;' x:str>财务审核日期</td>
+    <td class="xl66" width="125.25" style='width:75.15pt;' x:str>财务审核意见</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl67" height="24" style='height:14.40pt;' x:str>财务审核已通过</td>
+    <td class="xl67" x:str>2018543103</td>
+    <td class="xl67" x:str>绘图椅</td>
+    <td class="xl67" x:str>13010300</td>
+    <td class="xl67" x:str>椅凳</td>
+    <td class="xl68"></td>
+    <td class="xl69" align="right" x:num="65.">65.00</td>
+    <td class="xl69" align="right" x:num="65.">65.00</td>
+    <td class="xl67" x:str>147</td>
+    <td class="xl67" x:str>把</td>
+    <td class="xl67" x:str>李维信</td>
+    <td class="xl67" x:str>教学</td>
+    <td class="xl67" x:str>工学院</td>
+    <td class="xl67" x:str>教学实验楼104</td>
+    <td class="xl67" x:str>教学</td>
+    <td class="xl67" x:str>在用</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl67" x:str>福特单人木质靠背</td>
+    <td class="xl67" x:str>*</td>
+    <td class="xl67" x:str>自筹经费</td>
+    <td class="xl67" x:str>外购</td>
+    <td class="xl67" x:str>2012-09-01</td>
+    <td class="xl67" x:str>2018-12-20</td>
+    <td class="xl67" x:str>2019-10-24</td>
+    <td class="xl68"></td>
+    <td class="xl67" x:str>201209057</td>
+    <td class="xl67" x:str>201800262</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl67" x:str>[110058]祖传滨</td>
+    <td class="xl67" x:str>[014000]总务处</td>
+    <td class="xl67" x:str>2018-12-20</td>
+    <td class="xl68"></td>
+    <td class="xl67" x:str>[110058]祖传滨</td>
+    <td class="xl67" x:str>2018-12-20</td>
+    <td class="xl68"></td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl67" height="24" style='height:14.40pt;' x:str>财务审核已通过</td>
+    <td class="xl67" x:str>2016213102</td>
+    <td class="xl67" x:str>文件柜</td>
+    <td class="xl67" x:str>13020500</td>
+    <td class="xl67" x:str>柜、橱、箱</td>
+    <td class="xl68"></td>
+    <td class="xl69" align="right" x:num="420.">420.00</td>
+    <td class="xl69" align="right" x:num="420.">420.00</td>
+    <td class="xl67" x:str>4</td>
+    <td class="xl67" x:str>个</td>
+    <td class="xl67" x:str>李维信</td>
+    <td class="xl67" x:str>教学</td>
+    <td class="xl67" x:str>工学院</td>
+    <td class="xl67" x:str>教学实验楼104</td>
+    <td class="xl67" x:str>教学</td>
+    <td class="xl67" x:str>在用</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl67" x:str>铁皮玻璃</td>
+    <td class="xl67" x:str>*</td>
+    <td class="xl67" x:str>自筹经费</td>
+    <td class="xl67" x:str>外购</td>
+    <td class="xl67" x:str>2016-09-01</td>
+    <td class="xl67" x:str>2016-09-29</td>
+    <td class="xl67" x:str>2019-10-24</td>
+    <td class="xl68"></td>
+    <td class="xl67" x:str>201612203</td>
+    <td class="xl67" x:str>201600127</td>
+    <td class="xl67" x:str>记入</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl67" x:str>[110058]祖传滨</td>
+    <td class="xl67" x:str>[014000]总务处</td>
+    <td class="xl67" x:str>2016-09-29</td>
+    <td class="xl68"></td>
+    <td class="xl67" x:str>[110058]祖传滨</td>
+    <td class="xl67" x:str>2016-09-29</td>
+    <td class="xl68"></td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl67" height="24" style='height:14.40pt;' x:str>财务审核已通过</td>
+    <td class="xl67" x:str>2012100100</td>
+    <td class="xl67" x:str>丁字尺</td>
+    <td class="xl67" x:str>12030502</td>
+    <td class="xl67" x:str>画图专用工具</td>
+    <td class="xl68"></td>
+    <td class="xl69" align="right" x:num="13.">13.00</td>
+    <td class="xl69" align="right" x:num="13.">13.00</td>
+    <td class="xl67" x:str>129</td>
+    <td class="xl67" x:str>把</td>
+    <td class="xl67" x:str>李维信</td>
+    <td class="xl67" x:str>教学</td>
+    <td class="xl67" x:str>工学院</td>
+    <td class="xl67" x:str>教学实验楼104</td>
+    <td class="xl67" x:str>教学</td>
+    <td class="xl67" x:str>在用</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl67" x:str>*</td>
+    <td class="xl67" x:str>丁字形60cm</td>
+    <td class="xl67" x:str>自筹经费</td>
+    <td class="xl67" x:str>外购</td>
+    <td class="xl67" x:str>2009-09-01</td>
+    <td class="xl67" x:str>2009-09-01</td>
+    <td class="xl67" x:str>2019-10-24</td>
+    <td class="xl68"></td>
+    <td class="xl67" x:str>*</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl67" x:str>[110058]祖传滨</td>
+    <td class="xl67" x:str>[014000]总务处</td>
+    <td class="xl67" x:str>2013-06-03</td>
+    <td class="xl68"></td>
+    <td class="xl67" x:str>[110058]祖传滨</td>
+    <td class="xl67" x:str>2013-06-04</td>
+    <td class="xl68"></td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl67" height="24" style='height:14.40pt;' x:str>财务审核已通过</td>
+    <td class="xl67" x:str>2012089289</td>
+    <td class="xl67" x:str>绘图桌</td>
+    <td class="xl67" x:str>13030200</td>
+    <td class="xl67" x:str>桌几</td>
+    <td class="xl68"></td>
+    <td class="xl69" align="right" x:num="290.">290.00</td>
+    <td class="xl69" align="right" x:num="290.">290.00</td>
+    <td class="xl67" x:str>134</td>
+    <td class="xl67" x:str>张</td>
+    <td class="xl67" x:str>李维信</td>
+    <td class="xl67" x:str>教学</td>
+    <td class="xl67" x:str>工学院</td>
+    <td class="xl67" x:str>教学实验楼104</td>
+    <td class="xl67" x:str>教学</td>
+    <td class="xl67" x:str>在用</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl67" x:str>RH-04</td>
+    <td class="xl67" x:str>*</td>
+    <td class="xl67" x:str>自筹经费</td>
+    <td class="xl67" x:str>外购</td>
+    <td class="xl67" x:str>2009-09-01</td>
+    <td class="xl67" x:str>2009-09-01</td>
+    <td class="xl67" x:str>2019-10-24</td>
+    <td class="xl68"></td>
+    <td class="xl67" x:str>*</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl67" x:str>[110058]祖传滨</td>
+    <td class="xl67" x:str>[014000]总务处</td>
+    <td class="xl67" x:str>2013-06-03</td>
+    <td class="xl68"></td>
+    <td class="xl67" x:str>[110058]祖传滨</td>
+    <td class="xl67" x:str>2013-06-04</td>
+    <td class="xl68"></td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl67" height="24" style='height:14.40pt;' x:str>财务审核已通过</td>
+    <td class="xl67" x:str>2012089168</td>
+    <td class="xl67" x:str>陈列柜</td>
+    <td class="xl67" x:str>13020500</td>
+    <td class="xl67" x:str>橱、柜、箱</td>
+    <td class="xl68"></td>
+    <td class="xl69" align="right" x:num="3200.">3,200.00</td>
+    <td class="xl69" align="right" x:num="3200.">3,200.00</td>
+    <td class="xl67" x:str>21</td>
+    <td class="xl67" x:str>个</td>
+    <td class="xl67" x:str>李维信</td>
+    <td class="xl67" x:str>教学</td>
+    <td class="xl67" x:str>工学院</td>
+    <td class="xl67" x:str>教学实验楼104</td>
+    <td class="xl67" x:str>教学</td>
+    <td class="xl67" x:str>在用</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl67" x:str>*</td>
+    <td class="xl67" x:str>*</td>
+    <td class="xl67" x:str>自筹经费</td>
+    <td class="xl67" x:str>外购</td>
+    <td class="xl67" x:str>2009-09-01</td>
+    <td class="xl67" x:str>2009-09-01</td>
+    <td class="xl67" x:str>2019-10-24</td>
+    <td class="xl68"></td>
+    <td class="xl67" x:str>*</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl67" x:str>[110058]祖传滨</td>
+    <td class="xl67" x:str>[014000]总务处</td>
+    <td class="xl67" x:str>2013-06-03</td>
+    <td class="xl68"></td>
+    <td class="xl67" x:str>[110058]祖传滨</td>
+    <td class="xl67" x:str>2013-06-04</td>
+    <td class="xl68"></td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl67" height="24" style='height:14.40pt;' x:str>财务审核已通过</td>
+    <td class="xl67" x:str>2012089164</td>
+    <td class="xl67" x:str>木质模型</td>
+    <td class="xl67" x:str>09020000</td>
+    <td class="xl67" x:str>模型</td>
+    <td class="xl68"></td>
+    <td class="xl69" align="right" x:num="9800.">9,800.00</td>
+    <td class="xl69" align="right" x:num="9800.">9,800.00</td>
+    <td class="xl67" x:str>1</td>
+    <td class="xl67" x:str>套</td>
+    <td class="xl67" x:str>李维信</td>
+    <td class="xl67" x:str>教学</td>
+    <td class="xl67" x:str>工学院</td>
+    <td class="xl67" x:str>教学实验楼104</td>
+    <td class="xl67" x:str>教学</td>
+    <td class="xl67" x:str>在用</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl67" x:str>*</td>
+    <td class="xl67" x:str>*</td>
+    <td class="xl67" x:str>自筹经费</td>
+    <td class="xl67" x:str>外购</td>
+    <td class="xl67" x:str>2009-09-01</td>
+    <td class="xl67" x:str>2009-09-01</td>
+    <td class="xl67" x:str>2019-10-24</td>
+    <td class="xl68"></td>
+    <td class="xl67" x:str>201301147</td>
+    <td class="xl68"></td>
+    <td class="xl67" x:str>记入</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl67" x:str>[110058]祖传滨</td>
+    <td class="xl67" x:str>[014000]总务处</td>
+    <td class="xl67" x:str>2013-06-03</td>
+    <td class="xl68"></td>
+    <td class="xl67" x:str>[110058]祖传滨</td>
+    <td class="xl67" x:str>2013-06-04</td>
+    <td class="xl68"></td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl67" height="24" style='height:14.40pt;' x:str>财务审核已通过</td>
+    <td class="xl67" x:str>2012089133</td>
+    <td class="xl67" x:str>机械制图陈列柜</td>
+    <td class="xl67" x:str>13020500</td>
+    <td class="xl67" x:str>橱、柜、箱</td>
+    <td class="xl68"></td>
+    <td class="xl69" align="right" x:num="4300.">4,300.00</td>
+    <td class="xl69" align="right" x:num="4300.">4,300.00</td>
+    <td class="xl67" x:str>8</td>
+    <td class="xl67" x:str>个</td>
+    <td class="xl67" x:str>李维信</td>
+    <td class="xl67" x:str>教学</td>
+    <td class="xl67" x:str>工学院</td>
+    <td class="xl67" x:str>教学实验楼104</td>
+    <td class="xl67" x:str>教学</td>
+    <td class="xl67" x:str>在用</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl67" x:str>*</td>
+    <td class="xl67" x:str>*</td>
+    <td class="xl67" x:str>自筹经费</td>
+    <td class="xl67" x:str>外购</td>
+    <td class="xl67" x:str>2009-09-01</td>
+    <td class="xl67" x:str>2009-09-01</td>
+    <td class="xl67" x:str>2019-10-24</td>
+    <td class="xl68"></td>
+    <td class="xl67" x:str>*</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl67" x:str>[110058]祖传滨</td>
+    <td class="xl67" x:str>[014000]总务处</td>
+    <td class="xl67" x:str>2013-06-03</td>
+    <td class="xl68"></td>
+    <td class="xl67" x:str>[110058]祖传滨</td>
+    <td class="xl67" x:str>2013-06-04</td>
+    <td class="xl68"></td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl67" height="24" style='height:14.40pt;' x:str>财务审核已通过</td>
+    <td class="xl67" x:str>2012088404</td>
+    <td class="xl67" x:str>实验台</td>
+    <td class="xl67" x:str>13030600</td>
+    <td class="xl67" x:str>台架</td>
+    <td class="xl68"></td>
+    <td class="xl69" align="right" x:num="1000.">1,000.00</td>
+    <td class="xl69" align="right" x:num="1000.">1,000.00</td>
+    <td class="xl67" x:str>18</td>
+    <td class="xl67" x:str>台</td>
+    <td class="xl67" x:str>李维信</td>
+    <td class="xl67" x:str>教学</td>
+    <td class="xl67" x:str>工学院</td>
+    <td class="xl67" x:str>教学实验楼104</td>
+    <td class="xl67" x:str>教学</td>
+    <td class="xl67" x:str>在用</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl67" x:str>1400*750*800</td>
+    <td class="xl67" x:str>*</td>
+    <td class="xl67" x:str>自筹经费</td>
+    <td class="xl67" x:str>外购</td>
+    <td class="xl67" x:str>2012-07-01</td>
+    <td class="xl67" x:str>2012-07-01</td>
+    <td class="xl67" x:str>2019-10-24</td>
+    <td class="xl68"></td>
+    <td class="xl67" x:str>201301140</td>
+    <td class="xl68"></td>
+    <td class="xl67" x:str>记入</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl67" x:str>[110058]祖传滨</td>
+    <td class="xl67" x:str>[014000]总务处</td>
+    <td class="xl67" x:str>2013-06-03</td>
+    <td class="xl68"></td>
+    <td class="xl67" x:str>[110058]祖传滨</td>
+    <td class="xl67" x:str>2013-06-04</td>
+    <td class="xl68"></td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl67" height="24" style='height:14.40pt;' x:str>财务审核已通过</td>
+    <td class="xl67" x:str>2012087313</td>
+    <td class="xl67" x:str>木制教学模型</td>
+    <td class="xl67" x:str>09020429</td>
+    <td class="xl67" x:str>通用机械模型</td>
+    <td class="xl68"></td>
+    <td class="xl69" align="right" x:num="140.">140.00</td>
+    <td class="xl69" align="right" x:num="140.">140.00</td>
+    <td class="xl67" x:str>1</td>
+    <td class="xl67" x:str>套</td>
+    <td class="xl67" x:str>李维信</td>
+    <td class="xl67" x:str>教学</td>
+    <td class="xl67" x:str>工学院</td>
+    <td class="xl67" x:str>教学实验楼104</td>
+    <td class="xl67" x:str>教学</td>
+    <td class="xl67" x:str>在用</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl67" x:str>*</td>
+    <td class="xl67" x:str>*</td>
+    <td class="xl67" x:str>自筹经费</td>
+    <td class="xl67" x:str>外购</td>
+    <td class="xl67" x:str>2012-06-01</td>
+    <td class="xl67" x:str>2012-06-01</td>
+    <td class="xl67" x:str>2019-10-24</td>
+    <td class="xl68"></td>
+    <td class="xl67" x:str>*</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl67" x:str>[110058]祖传滨</td>
+    <td class="xl67" x:str>[014000]总务处</td>
+    <td class="xl67" x:str>2013-06-03</td>
+    <td class="xl68"></td>
+    <td class="xl67" x:str>[110058]祖传滨</td>
+    <td class="xl67" x:str>2013-06-04</td>
+    <td class="xl68"></td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl67" height="24" style='height:14.40pt;' x:str>财务审核已通过</td>
+    <td class="xl67" x:str>2012087312</td>
+    <td class="xl67" x:str>机械设计语音多功能陈列柜</td>
+    <td class="xl67" x:str>03151301</td>
+    <td class="xl67" x:str>机械制图智能示教柜</td>
+    <td class="xl68"></td>
+    <td class="xl69" align="right" x:num="3200.">3,200.00</td>
+    <td class="xl69" align="right" x:num="3200.">3,200.00</td>
+    <td class="xl67" x:str>16</td>
+    <td class="xl67" x:str>个</td>
+    <td class="xl67" x:str>李维信</td>
+    <td class="xl67" x:str>教学</td>
+    <td class="xl67" x:str>工学院</td>
+    <td class="xl67" x:str>教学实验楼104</td>
+    <td class="xl67" x:str>教学</td>
+    <td class="xl67" x:str>在用</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl67" x:str>JJF-20</td>
+    <td class="xl67" x:str>*</td>
+    <td class="xl67" x:str>自筹经费</td>
+    <td class="xl67" x:str>外购</td>
+    <td class="xl67" x:str>2012-06-01</td>
+    <td class="xl67" x:str>2012-06-01</td>
+    <td class="xl67" x:str>2019-10-24</td>
+    <td class="xl68"></td>
+    <td class="xl67" x:str>201209051</td>
+    <td class="xl68"></td>
+    <td class="xl67" x:str>记入</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl67" x:str>[110058]祖传滨</td>
+    <td class="xl67" x:str>[014000]总务处</td>
+    <td class="xl67" x:str>2013-06-03</td>
+    <td class="xl68"></td>
+    <td class="xl67" x:str>[110058]祖传滨</td>
+    <td class="xl67" x:str>2013-06-04</td>
+    <td class="xl68"></td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl67" height="24" style='height:14.40pt;' x:str>财务审核已通过</td>
+    <td class="xl67" x:str>2012087311</td>
+    <td class="xl67" x:str>单机减速器</td>
+    <td class="xl67" x:str>03151301</td>
+    <td class="xl67" x:str>机械原理示教机构</td>
+    <td class="xl68"></td>
+    <td class="xl69" align="right" x:num="400.">400.00</td>
+    <td class="xl69" align="right" x:num="400.">400.00</td>
+    <td class="xl67" x:str>1</td>
+    <td class="xl67" x:str>台</td>
+    <td class="xl67" x:str>李维信</td>
+    <td class="xl67" x:str>教学</td>
+    <td class="xl67" x:str>工学院</td>
+    <td class="xl67" x:str>教学实验楼104</td>
+    <td class="xl67" x:str>教学</td>
+    <td class="xl67" x:str>在用</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl67" x:str>*</td>
+    <td class="xl67" x:str>*</td>
+    <td class="xl67" x:str>自筹经费</td>
+    <td class="xl67" x:str>外购</td>
+    <td class="xl67" x:str>2012-06-01</td>
+    <td class="xl67" x:str>2012-06-01</td>
+    <td class="xl67" x:str>2019-10-24</td>
+    <td class="xl68"></td>
+    <td class="xl67" x:str>2101301147</td>
+    <td class="xl68"></td>
+    <td class="xl67" x:str>记入</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl67" x:str>[110058]祖传滨</td>
+    <td class="xl67" x:str>[014000]总务处</td>
+    <td class="xl67" x:str>2013-06-03</td>
+    <td class="xl68"></td>
+    <td class="xl67" x:str>[110058]祖传滨</td>
+    <td class="xl67" x:str>2013-06-04</td>
+    <td class="xl68"></td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl67" height="24" style='height:14.40pt;' x:str>财务审核已通过</td>
+    <td class="xl67" x:str>2012087309</td>
+    <td class="xl67" x:str>范成仪</td>
+    <td class="xl67" x:str>03151301</td>
+    <td class="xl67" x:str>机械原理示教机构</td>
+    <td class="xl68"></td>
+    <td class="xl69" align="right" x:num="15200.">15,200.00</td>
+    <td class="xl69" align="right" x:num="15200.">15,200.00</td>
+    <td class="xl67" x:str>1</td>
+    <td class="xl67" x:str>套</td>
+    <td class="xl67" x:str>李维信</td>
+    <td class="xl67" x:str>教学</td>
+    <td class="xl67" x:str>工学院</td>
+    <td class="xl67" x:str>教学实验楼104</td>
+    <td class="xl67" x:str>教学</td>
+    <td class="xl67" x:str>在用</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl67" x:str>JXH-B</td>
+    <td class="xl67" x:str>*</td>
+    <td class="xl67" x:str>自筹经费</td>
+    <td class="xl67" x:str>外购</td>
+    <td class="xl67" x:str>2012-04-01</td>
+    <td class="xl67" x:str>2012-04-01</td>
+    <td class="xl67" x:str>2019-10-24</td>
+    <td class="xl68"></td>
+    <td class="xl67" x:str>201206038</td>
+    <td class="xl68"></td>
+    <td class="xl67" x:str>记入</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl67" x:str>[110058]祖传滨</td>
+    <td class="xl67" x:str>[014000]总务处</td>
+    <td class="xl67" x:str>2013-06-03</td>
+    <td class="xl68"></td>
+    <td class="xl67" x:str>[110058]祖传滨</td>
+    <td class="xl67" x:str>2013-06-04</td>
+    <td class="xl68"></td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl67" height="24" style='height:14.40pt;' x:str>财务审核已通过</td>
+    <td class="xl67" x:str>2012087308</td>
+    <td class="xl67" x:str>机构运动简图测绘模型</td>
+    <td class="xl67" x:str>03151301</td>
+    <td class="xl67" x:str>机械原理示教机构</td>
+    <td class="xl68"></td>
+    <td class="xl69" align="right" x:num="17500.">17,500.00</td>
+    <td class="xl69" align="right" x:num="17500.">17,500.00</td>
+    <td class="xl67" x:str>4</td>
+    <td class="xl67" x:str>套</td>
+    <td class="xl67" x:str>李维信</td>
+    <td class="xl67" x:str>教学</td>
+    <td class="xl67" x:str>工学院</td>
+    <td class="xl67" x:str>教学实验楼104</td>
+    <td class="xl67" x:str>教学</td>
+    <td class="xl67" x:str>在用</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl67" x:str>J-D</td>
+    <td class="xl67" x:str>*</td>
+    <td class="xl67" x:str>自筹经费</td>
+    <td class="xl67" x:str>外购</td>
+    <td class="xl67" x:str>2012-04-01</td>
+    <td class="xl67" x:str>2012-04-01</td>
+    <td class="xl67" x:str>2019-10-24</td>
+    <td class="xl68"></td>
+    <td class="xl67" x:str>201206038</td>
+    <td class="xl68"></td>
+    <td class="xl67" x:str>记入</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl67" x:str>[110058]祖传滨</td>
+    <td class="xl67" x:str>[014000]总务处</td>
+    <td class="xl67" x:str>2013-06-03</td>
+    <td class="xl68"></td>
+    <td class="xl67" x:str>[110058]祖传滨</td>
+    <td class="xl67" x:str>2013-06-04</td>
+    <td class="xl68"></td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl67" height="24" style='height:14.40pt;' x:str>财务审核已通过</td>
+    <td class="xl67" x:str>2012086474</td>
+    <td class="xl67" x:str>绿色减速器</td>
+    <td class="xl67" x:str>04410607</td>
+    <td class="xl67" x:str>减速器</td>
+    <td class="xl68"></td>
+    <td class="xl69" align="right" x:num="400.">400.00</td>
+    <td class="xl69" align="right" x:num="400.">400.00</td>
+    <td class="xl67" x:str>7</td>
+    <td class="xl67" x:str>个</td>
+    <td class="xl67" x:str>李维信</td>
+    <td class="xl67" x:str>教学</td>
+    <td class="xl67" x:str>工学院</td>
+    <td class="xl67" x:str>教学实验楼104</td>
+    <td class="xl67" x:str>教学</td>
+    <td class="xl67" x:str>在用</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl67" x:str>*</td>
+    <td class="xl67" x:str>*</td>
+    <td class="xl67" x:str>自筹经费</td>
+    <td class="xl67" x:str>外购</td>
+    <td class="xl67" x:str>2010-09-01</td>
+    <td class="xl67" x:str>2010-09-01</td>
+    <td class="xl67" x:str>2019-10-24</td>
+    <td class="xl68"></td>
+    <td class="xl67" x:str>2101301147</td>
+    <td class="xl68"></td>
+    <td class="xl67" x:str>记入</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl67" x:str>[110058]祖传滨</td>
+    <td class="xl67" x:str>[014000]总务处</td>
+    <td class="xl67" x:str>2013-06-03</td>
+    <td class="xl68"></td>
+    <td class="xl67" x:str>[110058]祖传滨</td>
+    <td class="xl67" x:str>2013-06-04</td>
+    <td class="xl68"></td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl67" height="24" style='height:14.40pt;' x:str>财务审核已通过</td>
+    <td class="xl67" x:str>2012086387</td>
+    <td class="xl67" x:str>绘图板</td>
+    <td class="xl67" x:str>12030500</td>
+    <td class="xl67" x:str>绘图工具</td>
+    <td class="xl68"></td>
+    <td class="xl69" align="right" x:num="13.">13.00</td>
+    <td class="xl69" align="right" x:num="13.">13.00</td>
+    <td class="xl67" x:str>80</td>
+    <td class="xl67" x:str>张</td>
+    <td class="xl67" x:str>李维信</td>
+    <td class="xl67" x:str>教学</td>
+    <td class="xl67" x:str>工学院</td>
+    <td class="xl67" x:str>教学实验楼104</td>
+    <td class="xl67" x:str>教学</td>
+    <td class="xl67" x:str>在用</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl67" x:str>*</td>
+    <td class="xl67" x:str>木质2#</td>
+    <td class="xl67" x:str>自筹经费</td>
+    <td class="xl67" x:str>外购</td>
+    <td class="xl67" x:str>2010-09-01</td>
+    <td class="xl67" x:str>2010-09-01</td>
+    <td class="xl67" x:str>2019-10-24</td>
+    <td class="xl68"></td>
+    <td class="xl67" x:str>*</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl67" x:str>[110058]祖传滨</td>
+    <td class="xl67" x:str>[014000]总务处</td>
+    <td class="xl67" x:str>2013-06-03</td>
+    <td class="xl68"></td>
+    <td class="xl67" x:str>[110058]祖传滨</td>
+    <td class="xl67" x:str>2013-06-04</td>
+    <td class="xl68"></td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl67" height="24" style='height:14.40pt;' x:str>财务审核已通过</td>
+    <td class="xl67" x:str>2012086307</td>
+    <td class="xl67" x:str>工具盒</td>
+    <td class="xl67" x:str>12030000</td>
+    <td class="xl67" x:str>工具</td>
+    <td class="xl68"></td>
+    <td class="xl69" align="right" x:num="180.">180.00</td>
+    <td class="xl69" align="right" x:num="180.">180.00</td>
+    <td class="xl67" x:str>2</td>
+    <td class="xl67" x:str>个</td>
+    <td class="xl67" x:str>李维信</td>
+    <td class="xl67" x:str>教学</td>
+    <td class="xl67" x:str>工学院</td>
+    <td class="xl67" x:str>教学实验楼104</td>
+    <td class="xl67" x:str>教学</td>
+    <td class="xl67" x:str>在用</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl67" x:str>*</td>
+    <td class="xl67" x:str>26件</td>
+    <td class="xl67" x:str>自筹经费</td>
+    <td class="xl67" x:str>外购</td>
+    <td class="xl67" x:str>2010-09-01</td>
+    <td class="xl67" x:str>2010-09-01</td>
+    <td class="xl67" x:str>2019-10-24</td>
+    <td class="xl68"></td>
+    <td class="xl67" x:str>*</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl67" x:str>[110058]祖传滨</td>
+    <td class="xl67" x:str>[014000]总务处</td>
+    <td class="xl67" x:str>2013-06-03</td>
+    <td class="xl68"></td>
+    <td class="xl67" x:str>[110058]祖传滨</td>
+    <td class="xl67" x:str>2013-06-04</td>
+    <td class="xl68"></td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl67" height="24" style='height:14.40pt;' x:str>财务审核已通过</td>
+    <td class="xl67" x:str>2012086305</td>
+    <td class="xl67" x:str>单极减速器</td>
+    <td class="xl67" x:str>04410607</td>
+    <td class="xl67" x:str>减速器</td>
+    <td class="xl68"></td>
+    <td class="xl69" align="right" x:num="480.">480.00</td>
+    <td class="xl69" align="right" x:num="480.">480.00</td>
+    <td class="xl67" x:str>6</td>
+    <td class="xl67" x:str>个</td>
+    <td class="xl67" x:str>李维信</td>
+    <td class="xl67" x:str>教学</td>
+    <td class="xl67" x:str>工学院</td>
+    <td class="xl67" x:str>教学实验楼104</td>
+    <td class="xl67" x:str>教学</td>
+    <td class="xl67" x:str>在用</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl67" x:str>*</td>
+    <td class="xl67" x:str>铝合金测速装配体</td>
+    <td class="xl67" x:str>自筹经费</td>
+    <td class="xl67" x:str>外购</td>
+    <td class="xl67" x:str>2010-09-01</td>
+    <td class="xl67" x:str>2010-09-01</td>
+    <td class="xl67" x:str>2015-12-22</td>
+    <td class="xl68"></td>
+    <td class="xl67" x:str>*</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl67" x:str>[110058]祖传滨</td>
+    <td class="xl67" x:str>[014000]总务处</td>
+    <td class="xl67" x:str>2013-06-03</td>
+    <td class="xl68"></td>
+    <td class="xl67" x:str>[110058]祖传滨</td>
+    <td class="xl67" x:str>2013-06-04</td>
+    <td class="xl68"></td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl67" height="24" style='height:14.40pt;' x:str>财务审核已通过</td>
+    <td class="xl67" x:str>2012086299</td>
+    <td class="xl67" x:str>卡尺、钢板尺</td>
+    <td class="xl67" x:str>12010100</td>
+    <td class="xl67" x:str>卡尺</td>
+    <td class="xl68"></td>
+    <td class="xl69" align="right" x:num="100.">100.00</td>
+    <td class="xl69" align="right" x:num="100.">100.00</td>
+    <td class="xl67" x:str>9</td>
+    <td class="xl67" x:str>套</td>
+    <td class="xl67" x:str>李维信</td>
+    <td class="xl67" x:str>教学</td>
+    <td class="xl67" x:str>工学院</td>
+    <td class="xl67" x:str>教学实验楼104</td>
+    <td class="xl67" x:str>教学</td>
+    <td class="xl67" x:str>在用</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl67" x:str>0~150 300mm</td>
+    <td class="xl67" x:str>*</td>
+    <td class="xl67" x:str>自筹经费</td>
+    <td class="xl67" x:str>外购</td>
+    <td class="xl67" x:str>2010-09-01</td>
+    <td class="xl67" x:str>2010-09-01</td>
+    <td class="xl67" x:str>2019-10-24</td>
+    <td class="xl68"></td>
+    <td class="xl67" x:str>*</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl67" x:str>[110058]祖传滨</td>
+    <td class="xl67" x:str>[014000]总务处</td>
+    <td class="xl67" x:str>2013-06-03</td>
+    <td class="xl68"></td>
+    <td class="xl67" x:str>[110058]祖传滨</td>
+    <td class="xl67" x:str>2013-06-04</td>
+    <td class="xl68"></td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl67" height="24" style='height:14.40pt;' x:str>财务审核已通过</td>
+    <td class="xl67" x:str>2012086290</td>
+    <td class="xl67" x:str>塑料模型</td>
+    <td class="xl67" x:str>09020703</td>
+    <td class="xl67" x:str>数字教具模型</td>
+    <td class="xl68"></td>
+    <td class="xl69" align="right" x:num="45.">45.00</td>
+    <td class="xl69" align="right" x:num="45.">45.00</td>
+    <td class="xl67" x:str>6</td>
+    <td class="xl67" x:str>套</td>
+    <td class="xl67" x:str>李维信</td>
+    <td class="xl67" x:str>教学</td>
+    <td class="xl67" x:str>工学院</td>
+    <td class="xl67" x:str>教学实验楼104</td>
+    <td class="xl67" x:str>教学</td>
+    <td class="xl67" x:str>在用</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl67" x:str>*</td>
+    <td class="xl67" x:str>硬质塑料</td>
+    <td class="xl67" x:str>自筹经费</td>
+    <td class="xl67" x:str>外购</td>
+    <td class="xl67" x:str>2010-09-01</td>
+    <td class="xl67" x:str>2010-09-01</td>
+    <td class="xl67" x:str>2019-10-24</td>
+    <td class="xl68"></td>
+    <td class="xl67" x:str>*</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl67" x:str>[110058]祖传滨</td>
+    <td class="xl67" x:str>[014000]总务处</td>
+    <td class="xl67" x:str>2013-06-03</td>
+    <td class="xl68"></td>
+    <td class="xl67" x:str>[110058]祖传滨</td>
+    <td class="xl67" x:str>2013-06-04</td>
+    <td class="xl68"></td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl67" height="24" style='height:14.40pt;' x:str>财务审核已通过</td>
+    <td class="xl67" x:str>2012086284</td>
+    <td class="xl67" x:str>测绘台</td>
+    <td class="xl67" x:str>13010600</td>
+    <td class="xl67" x:str>台架</td>
+    <td class="xl68"></td>
+    <td class="xl69" align="right" x:num="528.">528.00</td>
+    <td class="xl69" align="right" x:num="528.">528.00</td>
+    <td class="xl67" x:str>3</td>
+    <td class="xl67" x:str>台</td>
+    <td class="xl67" x:str>李维信</td>
+    <td class="xl67" x:str>教学</td>
+    <td class="xl67" x:str>工学院</td>
+    <td class="xl67" x:str>教学实验楼104</td>
+    <td class="xl67" x:str>教学</td>
+    <td class="xl67" x:str>在用</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl67" x:str>*</td>
+    <td class="xl67" x:str>灰白色（1200*2400*750）</td>
+    <td class="xl67" x:str>自筹经费</td>
+    <td class="xl67" x:str>外购</td>
+    <td class="xl67" x:str>2010-09-01</td>
+    <td class="xl67" x:str>2010-09-01</td>
+    <td class="xl67" x:str>2019-10-24</td>
+    <td class="xl68"></td>
+    <td class="xl67" x:str>*</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl67" x:str>[110058]祖传滨</td>
+    <td class="xl67" x:str>[014000]总务处</td>
+    <td class="xl67" x:str>2013-06-03</td>
+    <td class="xl68"></td>
+    <td class="xl67" x:str>[110058]祖传滨</td>
+    <td class="xl67" x:str>2013-06-04</td>
+    <td class="xl68"></td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl67" height="24" style='height:14.40pt;' x:str>财务审核已通过</td>
+    <td class="xl67" x:str>2012080718</td>
+    <td class="xl67" x:str>课桌桌椅</td>
+    <td class="xl67" x:str>13010300</td>
+    <td class="xl67" x:str>椅凳</td>
+    <td class="xl68"></td>
+    <td class="xl69" align="right" x:num="45.">45.00</td>
+    <td class="xl69" align="right" x:num="45.">45.00</td>
+    <td class="xl67" x:str>120</td>
+    <td class="xl67" x:str>把</td>
+    <td class="xl67" x:str>李维信</td>
+    <td class="xl67" x:str>教学</td>
+    <td class="xl67" x:str>工学院</td>
+    <td class="xl67" x:str>教学实验楼104</td>
+    <td class="xl67" x:str>教学</td>
+    <td class="xl67" x:str>其他</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl67" x:str>*</td>
+    <td class="xl67" x:str>单人钢木</td>
+    <td class="xl67" x:str>自筹经费</td>
+    <td class="xl67" x:str>外购</td>
+    <td class="xl67" x:str>2009-09-01</td>
+    <td class="xl67" x:str>2009-09-01</td>
+    <td class="xl67" x:str>2019-09-04</td>
+    <td class="xl68"></td>
+    <td class="xl67" x:str>*</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl67" x:str>[110058]祖传滨</td>
+    <td class="xl67" x:str>[014000]总务处</td>
+    <td class="xl67" x:str>2013-06-03</td>
+    <td class="xl68"></td>
+    <td class="xl67" x:str>[110058]祖传滨</td>
+    <td class="xl67" x:str>2013-06-04</td>
+    <td class="xl68"></td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl67" height="24" style='height:14.40pt;' x:str>财务审核已通过</td>
+    <td class="xl67" x:str>2012066716</td>
+    <td class="xl67" x:str>单张课桌</td>
+    <td class="xl67" x:str>13010200</td>
+    <td class="xl67" x:str>桌几</td>
+    <td class="xl68"></td>
+    <td class="xl69" align="right" x:num="95.">95.00</td>
+    <td class="xl69" align="right" x:num="95.">95.00</td>
+    <td class="xl67" x:str>120</td>
+    <td class="xl67" x:str>张</td>
+    <td class="xl67" x:str>李维信</td>
+    <td class="xl67" x:str>教学</td>
+    <td class="xl67" x:str>工学院</td>
+    <td class="xl67" x:str>教学实验楼104</td>
+    <td class="xl67" x:str>教学</td>
+    <td class="xl67" x:str>其他</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl67" x:str>*</td>
+    <td class="xl67" x:str>单人钢木</td>
+    <td class="xl67" x:str>自筹经费</td>
+    <td class="xl67" x:str>外购</td>
+    <td class="xl67" x:str>2009-09-01</td>
+    <td class="xl67" x:str>2009-09-01</td>
+    <td class="xl67" x:str>2019-09-04</td>
+    <td class="xl68"></td>
+    <td class="xl67" x:str>*</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl67" x:str>[110058]祖传滨</td>
+    <td class="xl67" x:str>[014000]总务处</td>
+    <td class="xl67" x:str>2013-06-03</td>
+    <td class="xl68"></td>
+    <td class="xl67" x:str>[110058]祖传滨</td>
+    <td class="xl67" x:str>2013-06-04</td>
+    <td class="xl68"></td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl67" height="24" style='height:14.40pt;' x:str>财务审核已通过</td>
+    <td class="xl67" x:str>2012065241</td>
+    <td class="xl67" x:str>刊架/节（单）</td>
+    <td class="xl67" x:str>13020600</td>
+    <td class="xl67" x:str>台架</td>
+    <td class="xl68"></td>
+    <td class="xl69" align="right" x:num="500.">500.00</td>
+    <td class="xl69" align="right" x:num="500.">500.00</td>
+    <td class="xl67" x:str>4</td>
+    <td class="xl68"></td>
+    <td class="xl67" x:str>李维信</td>
+    <td class="xl67" x:str>教学</td>
+    <td class="xl67" x:str>工学院</td>
+    <td class="xl67" x:str>教学实验楼104</td>
+    <td class="xl67" x:str>教学</td>
+    <td class="xl67" x:str>在用</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl67" x:str>*</td>
+    <td class="xl67" x:str>*</td>
+    <td class="xl67" x:str>自筹经费</td>
+    <td class="xl67" x:str>外购</td>
+    <td class="xl67" x:str>2009-09-15</td>
+    <td class="xl67" x:str>2009-09-15</td>
+    <td class="xl67" x:str>2019-10-24</td>
+    <td class="xl68"></td>
+    <td class="xl67" x:str>*</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl67" x:str>[110058]祖传滨</td>
+    <td class="xl67" x:str>[014000]总务处</td>
+    <td class="xl67" x:str>2013-06-03</td>
+    <td class="xl68"></td>
+    <td class="xl67" x:str>[110058]祖传滨</td>
+    <td class="xl67" x:str>2013-06-04</td>
+    <td class="xl68"></td>
+   </tr>
+   <![if supportMisalignedColumns]>
+    <tr width="0" style='display:none;'>
+     <td width="138" style='width:83;'></td>
+     <td width="106" style='width:64;'></td>
+     <td width="233" style='width:140;'></td>
+     <td width="87" style='width:52;'></td>
+     <td width="175" style='width:105;'></td>
+     <td width="69" style='width:41;'></td>
+     <td width="97" style='width:58;'></td>
+     <td width="89" style='width:53;'></td>
+     <td width="87" style='width:52;'></td>
+     <td width="108" style='width:65;'></td>
+     <td width="87" style='width:52;'></td>
+     <td width="129" style='width:78;'></td>
+     <td width="87" style='width:52;'></td>
+     <td width="51" style='width:30;'></td>
+     <td width="87" style='width:52;'></td>
+     <td width="157" style='width:94;'></td>
+     <td width="229" style='width:138;'></td>
+     <td width="87" style='width:52;'></td>
+     <td width="106" style='width:64;'></td>
+     <td width="87" style='width:52;'></td>
+     <td width="106" style='width:64;'></td>
+     <td width="96" style='width:57;'></td>
+     <td width="87" style='width:52;'></td>
+     <td width="51" style='width:30;'></td>
+     <td width="87" style='width:52;'></td>
+     <td width="142" style='width:85;'></td>
+     <td width="125" style='width:75;'></td>
+     <td width="142" style='width:85;'></td>
+     <td width="125" style='width:75;'></td>
+    </tr>
+   <![endif]>
+  </table>
+ </body>
+</html>

@@ -1,0 +1,8 @@
+import xlrd
+
+#line = 10
+line = 25
+if(line==25):
+    print("写入完成 {}行数据".format(line))
+else:
+    print(line)

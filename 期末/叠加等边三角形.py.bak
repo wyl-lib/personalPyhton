@@ -1,0 +1,10 @@
+# 叠加等边三角形
+
+import turtle as t
+
+t.speed(2)
+#t.setup()
+#内等边三角形
+t.forward(60)
+t.right(300)
+t.forward(60)

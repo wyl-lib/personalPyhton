@@ -1,0 +1,38 @@
+import numpy as np 
+from matplotlib import pyplot as plt 
+ 
+x = np.arange(1,11) 
+y =  2 * x +  5
+plt.title("Matplotlib demo") 
+plt.pyplot.plot_date(x, y, fmt='o', tz=None, xdate=True, ydate=False, *,
+    data=None, **kwargs)[source]
+    
+plt.xlabel("x axis caption") 
+plt.ylabel("y axis caption") 
+plt.plot(x,y,"ob") 
+plt.show()
+
+x = np.linspace(0, 2, 100)
+y = np.linspace(0, 50, 100)
+
+plt.plot(x, x, label='linear')
+plt.plot(x, x**2, label='quadratic')
+plt.plot(x, x**3, label='cubic')
+plt.xlabel('x label')
+plt.ylabel('y label')
+plt.title("Simple Plot")
+plt.legend()
+plt.show()
+
+##sin cos 
+x = np.linspace(0, 2 * np.pi, 100)
+y1, y2 = np.sin(x), np.cos(x)
+ 
+plt.plot(x, y1)
+plt.plot(x, y2)
+ 
+plt.title('line chart')
+plt.xlabel('x')
+plt.ylabel('y')
+ 
+plt.show()

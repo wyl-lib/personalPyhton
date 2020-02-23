@@ -1,0 +1,16 @@
+{% extends "base.html" %}
+
+{% block content %}
+	<h1>Hello,{{user.username}}!</h1>
+	<h2>With the base template in place, I can now simplify index.html by making it inherit from base.html:</h2>
+
+{% for post_blog in posts %}
+	<div>
+		<p>
+			<b>{{ post_blog.author.username }} </b>
+			says: 
+				{{ post_blog.body }}
+		</p>
+	</div>
+{% endfor %}
+{% endblock %}
